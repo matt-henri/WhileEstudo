@@ -16,7 +16,6 @@ public class estruturaWhile {
 			
 			System.out.println("soma é igual a " + soma);
 			
-			
 			sc.close();
 		}
 }
